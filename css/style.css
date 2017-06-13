@@ -263,6 +263,7 @@ a.link-1:hover {
 }
 .wrapper, .extra_wrapper {
 	overflow: hidden;
+	padding: 3px;
 }
 .clear {
 	float: none !important;

@@ -272,10 +272,18 @@ export default StyleSheet.create({
         "textAlign": "center"
     },
     "wrapper": {
-        "overflow": "hidden"
+        "overflow": "hidden",
+        "paddingTop": 3,
+        "paddingRight": 3,
+        "paddingBottom": 3,
+        "paddingLeft": 3
     },
     "extra_wrapper": {
-        "overflow": "hidden"
+        "overflow": "hidden",
+        "paddingTop": 3,
+        "paddingRight": 3,
+        "paddingBottom": 3,
+        "paddingLeft": 3
     },
     "clear": {
         "float": "none !important",
